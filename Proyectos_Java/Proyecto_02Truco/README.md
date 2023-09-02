@@ -14,7 +14,7 @@ proyecto, lo cual es un refuerzo al aprendizaje de programación en sí.
 
 ## Cómo ejecutar el programa
 
-Para ejecutar este programa debe descargarse el archivo .jar del repositorio y ejecutarse desde el CMD de la siguiente forma:
+Para ejecutar este programa debe descargarse el archivo .jar que encontraras arriba en la carpeta target del repositorio y ejecutarse desde el CMD de la siguiente forma:
 ```bash
   C:\Users\usuario>java -jar "Copiar dirección del archivo"
 ```
