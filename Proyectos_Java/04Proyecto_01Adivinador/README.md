@@ -13,3 +13,5 @@ Para ejecutar este programa debe descargarse el archivo .jar del repositorio y e
 ```bash
   C:\Users\usuario>java -jar "Copiar dirección del archivo"
 ```
+
+Derechos de autor del proyecto a https://www.kaedusoft.edu.uy/
